@@ -73,7 +73,7 @@
 
 
 
-## 远山盆地荒野
+## 远山与荒野
 
 
 
@@ -95,12 +95,26 @@
 
 ![202131523379](GenshinImpact.assets/202131523379.jpg)
 
+
+
+##   起雾海平面丢失细节如仙境
+
+
+
 ![202131614346](GenshinImpact.assets/202131614346.jpg)
+
+
+
+##  赶赴雪山的旅行者少女
 
 
 
 ![bg](GenshinImpact.assets/bg.png)
 
-![2021315233431](GenshinImpact.assets/2021315233431.png)
+
+
+
+## 教堂里的红色火焰少女安帕
+
 
 ![2021310193927](GenshinImpact.assets/2021310193927.png)

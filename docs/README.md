@@ -2,7 +2,9 @@
 
 zhaoolee作为一名摄影爱好者，偶尔也会打打游戏，接触了游戏摄影后，感觉**游戏摄影**比游戏本身还好玩。于是便有了这个网站。[https://zhaoolee.com/gp](https://zhaoolee.com/gp)
 
-我在B站开了一个直播间 [https://live.bilibili.com/22917242](https://live.bilibili.com/22917242)，直播游戏摄影的全过程
+本站的所有图片，可以免费商用。
+
+我在B站开了一个直播间 [https://live.bilibili.com/22917242](https://live.bilibili.com/22917242)，直播游戏摄影的全过程（欢迎捧场）
 
 ## 本仓库的主要内容
 
@@ -11,8 +13,7 @@ zhaoolee作为一名摄影爱好者，偶尔也会打打游戏，接触了游戏
 - 游戏摄影后期软件的使用（Adobe PhotoShop， Adobe Lightroom）
 
 
-## 游戏目录
+## 游戏摄影目录
 
-### 《原神》
+### [001《原神》带上镜头，千万奇幻提瓦特大陆](https://zhaoolee.com/gp/#/GenshinImpact)
 
-![2021315233410](README.assets/2021315233410.png)
