@@ -19,7 +19,8 @@
       loadNavbar: true,
       loadSidebar: true,
       subMaxLevel: 6,
-      coverpage: true
+      // coverpage: true, // 封面
+      search: 'auto', // 默认值
     }
   </script>
   <!-- Docsify v4 -->
@@ -27,5 +28,24 @@
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- 使用Emoji -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <!-- 图片缩放 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  <!-- 评论 -->
+
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script>
+  const gitalk = new Gitalk({
+    clientID: 'fcfeca14739ad63b029c',
+    clientSecret: '191c171c5954a566e184f8a22b2c7a4b0b224759',
+    repo: 'gp',
+    owner: 'zhaoolee',
+    admin: ['zhaoolee'],
+    // facebook-like distraction free mode
+    distractionFreeMode: true
+  })
+</script>
 </body>
 </html>
