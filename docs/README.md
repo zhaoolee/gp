@@ -15,5 +15,5 @@ zhaoolee作为一名摄影爱好者，偶尔也会打打游戏，接触了游戏
 
 ## 游戏摄影目录
 
-### [001《原神》带上镜头，千万奇幻提瓦特大陆](https://zhaoolee.com/gp/#/GenshinImpact)
+### [001《原神》带上镜头，前往奇幻的提瓦特大陆](https://zhaoolee.com/gp/#/GenshinImpact)
 
