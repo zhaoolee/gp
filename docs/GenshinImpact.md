@@ -2,6 +2,36 @@
 
 **原神** 是一款开放世界游戏，游戏玩法多样， PC端开满特效，在游戏内可以获得不错的摄影体验。
 
+![202131615150](GenshinImpact.assets/202131615150.jpg)
+
+![202131615526](GenshinImpact.assets/202131615526.jpg)
+
+![202131722455](GenshinImpact.assets/202131722455.jpg)
+
+![202131722545](GenshinImpact.assets/202131722545.jpg)
+
+![202131723101](GenshinImpact.assets/202131723101.jpg)
+
+![202131723232](GenshinImpact.assets/202131723232.jpg)
+
+![2021317222522](GenshinImpact.assets/2021317222522.jpg)
+
+![2021317223043](GenshinImpact.assets/2021317223043.jpg)
+
+![2021317223336](GenshinImpact.assets/2021317223336.jpg)
+
+![2021317224353](GenshinImpact.assets/2021317224353.jpg)
+
+![2021317224455](GenshinImpact.assets/2021317224455.jpg)
+
+![2021317225528](GenshinImpact.assets/2021317225528.jpg)
+
+![2021317225825](GenshinImpact.assets/2021317225825.jpg)
+
+![2021317225850](GenshinImpact.assets/2021317225850.jpg)
+
+![2021317225946](GenshinImpact.assets/2021317225946.jpg)
+
 
 ## 夕阳西下
 
